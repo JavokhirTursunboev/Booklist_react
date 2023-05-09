@@ -12,3 +12,10 @@
   margin-top: 1rem;
   font-size: 1rem;
 }
+button {
+  padding: 7px 14px;
+  margin-top: 1rem;
+  background-color: #fff;
+  color: blue;
+  border: 1px solid blue;
+}

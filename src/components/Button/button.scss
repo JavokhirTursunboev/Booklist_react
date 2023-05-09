@@ -1,0 +1,31 @@
+ .submit{
+        display: inline;
+        padding: 10px 15px;
+        font-size: 1.2rem;
+        background-color: white;
+        font-weight: 700;
+        border-radius: 15px;
+        border: none;
+       color: red;
+    }
+    .click{
+        display: inline;       
+        padding: 10px 15px;
+        font-size: 1.2rem;
+        background-color: white;
+        font-weight: 700;
+        border-radius: 15px;
+        border: none;
+      
+         background-color: white;
+            color:rgb(73, 31, 224);
+       
+        
+        &:hover{
+             background: rgb(73, 31, 224);
+             color: white;
+            transition: all 0.1s ease;
+        }
+       
+        
+    }
